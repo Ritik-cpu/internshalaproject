@@ -1,0 +1,27 @@
+export default[
+    {
+      "id":1,
+      "questions":"https://assets.codepen.io/6093409/river.mp4",
+        "tabs":"study"
+    },
+    {
+        "id":2,
+        "questions":"myquiz",
+          "tabs":"Quiz"
+      },
+      {
+        "id":3,
+        "questions":"mytest",
+          "tabs":"Test"
+      },
+      {
+        "id":4,
+        "questions":"mygame",
+          "tabs":"Game"
+      },
+      {
+        "id":5,
+        "questions":"other",
+          "tabs":"Other"
+      }, 
+]
